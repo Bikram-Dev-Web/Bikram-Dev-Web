@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Bikram Das 👋</h1>
 <h3 align="center">Electrical Engineering @ IIT Madras | Full-Stack Dev | Systems Programmer | ML Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bikram-Dev-Web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 B.Tech in **Electrical Engineering** at **IIT Madras** (CGPA: 7.83, Graduating 2028)
-- 🏆 Top **5.5 rank** out of 1.8L candidates in **JEE Advanced 2024**
+- 🏆 Top **5.5% rank** out of 1.8L candidates in **JEE Advanced 2024**
 - 💻 Codeforces **Pupil** | Peak rating **1345** | 400+ problems solved
 - 🌐 Currently building full-stack platforms and systems-level tools
 - 📍 Chennai, India
@@ -65,8 +65,8 @@
 
 ### 🏆 Achievements
 
-- 🥇 JEE Advanced 2024 — Top 6.6% out of 1.8 Lakh candidates
-- 🥈 JEE Mains — **99.77 percentile** in Chemistry
+- 🥇 JEE Advanced 2024 — Top 5.5% out of 1.8 Lakh candidates
+- 🥈 JEE Mains — **99.14 percentile** 
 - 🥇 WBJEE 2024 — **AIR 507**, Top 0.45%
 - 💻 Codeforces Round 191 — **Rank 1951** among 30K participants (Div. 2)
 

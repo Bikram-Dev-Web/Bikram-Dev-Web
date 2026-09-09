@@ -57,6 +57,7 @@
 
 ### 💼 Work Experience
 
+- **Fullstack Developer** @ [muralink.in](https://muralink.in) — Currently working
 - **Fullstack Developer** @ [hextasy.in](https://hextasy.in) — FastAPI backend, JWT auth, Razorpay, 15 REST endpoints
 - **Fullstack Developer** @ memoria.ai — RAG pipeline over 300 docs, semantic search, 35% reduction in irrelevant queries
 
